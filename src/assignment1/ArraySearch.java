@@ -19,6 +19,8 @@ public class ArraySearch {
 		}
 		System.out.println("No such number exists ");
 		
+		
+		sc.close();
 	}
 
 }
